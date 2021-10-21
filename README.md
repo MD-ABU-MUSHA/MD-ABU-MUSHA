@@ -29,11 +29,8 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...<br/>
 
 
-
-
-
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?userMD-ABU-MUSHA=&theme=algolia" alt="MD-ABU-MUSHA"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
 
 
 ## 🛠️ My Skills
