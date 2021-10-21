@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-ABU-MUSHA&theme=algolia" alt="candida18"  /></p>
 
 
 ## 🛠️ My Skills
