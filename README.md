@@ -166,7 +166,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/MD-ABU-MUSHA"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MD-ABU-MUSHA&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/MD-ABU-MUSHA"><img alt="MD. ABU MUSHA's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MD-ABU-MUSHA&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
